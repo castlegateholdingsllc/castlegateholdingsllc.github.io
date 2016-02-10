@@ -4,65 +4,16 @@ title: Rules
 permalink: /rules/
 ---
 
-## How are decisions made?
-
-Ideas are proposed via a web site to be discussed and voted upon. 
-
-### What needs a decision
-
--- Tiny house location
--- Community/Public spaces
--- Cutting down trees
--- Spending association money
-
-## How do we have more people join
-
-A unanimous vote is required. New members are required to pay the same amount as all other current members.
-
-## How do people leave
-
-### Voluntary
-
-30 day notice. Executive board will make the decision of adjusting the fees. Sale of your membership to another person is not allowed.
-
-### Involuntary
-
-A unanimous vote is required.
-
-Possible Reasons:
-
-- Non payment of 90 days
-- History of non payment
-- Conflict resolution
-
-### Abandonment
-
-90 day rule.
-
-## How are increase costs handled
-
-## How do we handle girlfriends/boyfriends
-
 ## How do we handle guests
 
 Common courtesy would be to notify all members. The member is responsible for the guest. 
 
-### Waivers
-
 ## How do we handle trash
 
-## House restrictions
+Trash is "carrying in, carry out" policy. Trash need to be removed when you leave from your current stay. During your stay trash must be secured and not left to attract wild animals.
 
-### Size
+## Pets
 
-## Dogs
+All dogs must be properly licensed and proof of current rabies tags. Pets shall be under control at all times. Any feces left  by any pet on the Association property shall be picked up by the owner in a reasonable amount of time.
 
-Pick up after them.
-
-## How do we collect member dues
-
-Dues are due the 15th of every month. WE hope that we can do electronic and snail mail methods of payment.
-
-### Non-payment
-### Pre-Payment
-### Penalties/Fees
+In any event any member who violates the provisions of this section. the Association shall have the authority to enforce the provisions of said SEction by causing the owner who has violated the rules to remove the pet from the community and/or imposing reasonable assessments or fines on the owner.
