@@ -20,13 +20,13 @@ TODO JC add sections for membership additions and removals
 
 ### ARTICLE II
 
-**Monthly Dues**: An annual due of $50.00 will be paid February 15th of each month.
+**Monthly Dues**: An annual due of $50.00 will be paid the 15th of each month.
 
 TODO JC: update this section
 
 ### ARTICLE III
 
-**Section 1** – Annual Meeting: There shall be an annual meeting of the members of the limited liability company in the month of February of each year, time, date and place to be determined by the board of directors.  Notice shall be given by the secretary to all members in writing at least ten days prior to the date thereof.  Notice shall be deemed valid if it is deposited in the United States mail, postage prepaid and addressed to each member at his last known address.
+**Section 1** – Annual Meeting: There shall be an annual meeting of the members of the limited liability company in the month of February of each year, time, date and place to be determined by the board of directors.  Notice shall be given by the board of directors to all members in writing at least ten days prior to the date thereof.  Notice shall be deemed valid if it is sent via email to the last know email address.
 
 **Section 2** – General Meeting: General meetings will be held monthly at a time and place which shall be announced at the previous month’s meeting.
 
@@ -40,7 +40,8 @@ TODO JC: update this section
 
 
 ### ARTICLE IV
-DIRECTORS:
+
+#### DIRECTORS:
 
 **Section 1**: The board of directors shall consist of President, Vice-President, and Treasurer elected at the annual meeting.
 
@@ -54,7 +55,7 @@ DIRECTORS:
 
 **Section 6** – Special meetings of the board: Special meetings of the board may be called at any time by any board member for any reason having imperative interest on the structure or purposes of this limited liability company.
 
-**Section 7** – Quorum: – Until the board of directors is increased, three directors shall constitute a quorum.  Upon increase in the members of the board of directors 75% of the directors shall be required to constitute a quorum.
+**Section 7** – Quorum: – Until the board of directors is increased, two directors shall constitute a quorum.  Upon increase in the members of the board of directors 75% of the directors shall be required to constitute a quorum.
 
 **Section 8** – Elections: – The board of directors will be elected at the annual meeting in February.  Nominations will be made from the floor.
 
@@ -62,7 +63,8 @@ DIRECTORS:
 
 
 ### ARTICLE V
-OFFICERS:
+
+#### OFFICERS:
 
 **Section 1** – Duties of the President: The President shall be the executive officer of the limited liability company and shall preside at all meetings of the limited liability company and shall perform all other duties commonly incident to the office.
 
@@ -81,7 +83,9 @@ Members may be removed and expelled from the limited liability company upon a pe
 
 
 ### ARTICLE VII
-AMENDMENT
+
+#### AMENDMENT
+
 These by-laws may be amended at any annual, general or special meeting by a two-thirds vote of all voting members.  All proposed amendments shall require two weeks notice to all members which notice shall set out the contents and working of such amendments.
 
 Any amendment to these by-laws, however, made within a five year period from the date of limited liability company shall require, in addition to the majority vote of the membership, a two-thirds vote of the original members.

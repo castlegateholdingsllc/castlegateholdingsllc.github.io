@@ -10,8 +10,8 @@ title: Castlegate Holdings LLC
 email: CastlegateHoldingsLLC@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A Tiny House Village to call our own. A place where we can gather,
-  relax, and call our own. This is a living project and dream for
-  many of us. Here we can document our progress.
+  relax, and recreate. This is a living project and dream for many of us.
+  Here we can document our progress.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
