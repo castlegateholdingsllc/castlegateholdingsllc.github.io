@@ -20,7 +20,7 @@ TODO JC add sections for membership additions and removals
 
 ### ARTICLE II
 
-**Monthly Dues**: An annual due of $50.00 will be paid the 15th of each month.
+**Monthly Dues**: An monthly due of $50.00 will be paid the 15th of each month.
 
 TODO JC: update this section
 
@@ -30,7 +30,7 @@ TODO JC: update this section
 
 **Section 2** – General Meeting: General meetings will be held monthly at a time and place which shall be announced at the previous month’s meeting.
 
-**Section 3** – Special Meeting: A special meeting may be called at any time by a board member for any reason having imperative interest to the structure and purpose of this limited liability company.  Such meetings and voting may be held in person, by phone, or via mail.  All special meeting will be reviewed at the next general meeting.
+**Section 3** – Special Meeting: A special meeting may be called at any time by a board member for any reason having imperative interest to the structure and purpose of this limited liability company.  Such meetings and voting may be held in person, by phone, or via email.  All special meeting will be reviewed at the next general meeting.
 
 **Section 4** – Adjourned Meeting: An adjournment of an annual or special meeting may be taken without due notice.  Any elections or business from the adjourned meeting will automatically be given first priority at the next general meeting.
 
@@ -66,11 +66,11 @@ TODO JC: update this section
 
 #### OFFICERS:
 
-**Section 1** – Duties of the President: The President shall be the executive officer of the limited liability company and shall preside at all meetings of the limited liability company and shall perform all other duties commonly incident to the office.
+**Section 1** – Duties of the President: The President shall be the executive officer of the limited liability company, shall preside at all meetings of the limited liability company and shall perform all other duties commonly incident to the office.
 
 **Section 2** – Duties of the Vice-President: The Vice-President, in the absence of the President, shall exercise all powers and perform all duties of the President.  The V.P. will have the responsibility of public relations.
 
-**Section 3** – Duties of the Treasurer: The Treasurer shall be the custodian of all funds received by the limited liability company, and dispense funds as directed by voting and policy.  He shall maintain complete records of all financial transactions.  The Treasurer shall provide a copy of the Treasurer’s Report to the membership at the annual meeting and to individual members upon request.
+**Section 3** – Duties of the Treasurer: The Treasurer shall be the custodian of all funds received by the limited liability company, and dispense funds as directed by voting and policy.  The Treasurer shall maintain complete records of all financial transactions.  The Treasurer shall provide a copy of the Treasurer’s Report to the membership at the annual meeting and to individual members upon request.
 
 
 ### ARTICLE VI
@@ -88,9 +88,9 @@ Members may be removed and expelled from the limited liability company upon a pe
 
 These by-laws may be amended at any annual, general or special meeting by a two-thirds vote of all voting members.  All proposed amendments shall require two weeks notice to all members which notice shall set out the contents and working of such amendments.
 
-Any amendment to these by-laws, however, made within a five year period from the date of limited liability company shall require, in addition to the majority vote of the membership, a two-thirds vote of the original members.
-
 
 ### ARTICLE VIII
 
 No part of the net earnings of the limited liability company shall inure to the benefit of any member, trustee, director, officer of the limited liability company, of any private individual (except that reasonable compensation may be paid for services rendered to or for the limited liability company), and no member, trustee, officer of the limited liability company or any private individual shall be entitled to share in the distribution of any of the corporate assets on dissolution of the limited liability company.
+
+TODO JC section here for the distribution of assets upon the dissolution of the llc
